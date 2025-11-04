@@ -16,5 +16,6 @@ This experiment compares **Multithreading** and **Multiprocessing** performance.
 ✅ **Multiprocessing performs better** for CPU-bound tasks.
 
 ### 📸 Output Screenshot
-![Output](03da9ada-9f2e-4996-9fa9-9757eddead2f.png)
+<img width="461" height="305" alt="image" src="https://github.com/user-attachments/assets/50e4a1a5-cf4c-4d74-8cfa-840245ff980d" />
+
 
